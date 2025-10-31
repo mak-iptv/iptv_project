@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+motor
+aiohttp
+python-dotenv
+pydantic
+aiofiles
+m3u8
